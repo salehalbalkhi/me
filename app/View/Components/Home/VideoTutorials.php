@@ -17,19 +17,22 @@ class VideoTutorials extends Component
     {
         $this->videoTutorials = [
             [
-                'videoId' => 'yXzWfZ4N4xU',
-                'title' => 'PHP Tutorial for Absolute Beginners - PHP Course 2021',
-                'description' => 'This is 5 hours PHP Course and in this course you will learn all the basics you need in PHP. This is good starting point if you want to learn PHP.'
+                'videoId' => 'fDkR0TDR9dI',
+                'title' => ' Git & GitHub  ',
+                'description' => 'كورس تعلم جيت وجيت هب وهما عبارة عن version control system  تمكنك من حفظ التقدم في مشاريعك البرمجية والمشاركة في مشاريع الآخرين على جيت هب وأيضا رفع المشاريع على جيت هب
+.'
             ],
             [
-                'videoId' => 'WLQDpY7lOLg',
-                'title' => 'Full Stack App with Laravel, Tailwindcss and Vue 3',
-                'description' => 'You will build a Full stack application, which includes Laravel REST API with authentication, Tailwind.css and Vue 3 with Vuex for UI'
+                'videoId' => 'taL3r_JpwBg',
+                'title' => 'Web Scraping with Python Beautiful Soup - تعلم استخراج البيانات من اي موقع على الانترنت',
+                'description' => 'in this video we will learn web scraping with python using beautiful soup library to collect data from the web which is especially useful for data science and data analysis for collecting large amounts of data automatically and data scraping, and in this video we will collect data about football matches and the world cup 2022 matches schedule by scraping the data from a football website and adding the data from the python script to a csv file.'
             ],
             [
-                'videoId' => 'WKy-N0q3WRo',
-                'title' => 'Learn How to build PHP MVC Framework',
-                'description' => 'Video playlist which will show you how to build an MVC framework from scratch. This will help you understand how modern PHP frameworks work.'
+                'videoId' => 'pYdB2uG9pnE',
+                'title' => 'Linux Crash Course',
+                'description' => 'لو انت اتعاملت مع نظام لينكس قبل كده لكن حاسس نفسك مش كويس اوى فيه أو لسه عايز تتعلم نظام كالي لينكس ومتعرفش اي حاجه عنه حرفيًا! 
+فأحب اقولك انت في المكان الصح! بعد الانتهاء من الكورس او الفيديو ده هيبقي عندك معرفه كبيره جدًا بالنظام! وهتعرف ازاي تتعامل مع كل حاجه موجوده فيه بشكل احترافي بإذن الله.
+.'
             ],
         ];
     }
